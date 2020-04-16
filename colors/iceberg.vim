@@ -8,7 +8,7 @@
 "
 " File:       iceberg.vim
 " Maintainer: cocopon <cocopon@me.com>
-" Modified:   2020-05-04 19:53+0900
+" Modified:   2020-05-04 19:54+0900
 " License:    MIT
 
 
