@@ -23,7 +23,7 @@ if exists('syntax_on')
   syntax reset
 endif
 
-let g:colors_name = 'iceberg'
+let g:colors_name = 'iceberg_transparent'
 
 
 hi Normal ctermbg=234 ctermfg=252 guibg=#161821 guifg=#c6c8d1
