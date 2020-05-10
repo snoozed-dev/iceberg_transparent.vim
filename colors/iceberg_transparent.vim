@@ -26,7 +26,7 @@ endif
 let g:colors_name = 'iceberg_transparent'
 
 
-hi Normal ctermbg=234 ctermfg=252 guibg=#161821 guifg=#c6c8d1
+hi Normal ctermbg=234 ctermfg=252 guibg=NONE guifg=#c6c8d1
 hi ColorColumn cterm=NONE ctermbg=235 ctermfg=NONE guibg=NONE guifg=NONE
 hi CursorColumn cterm=NONE ctermbg=235 ctermfg=NONE guibg=NONE guifg=NONE
 hi CursorLine cterm=NONE ctermbg=235 ctermfg=NONE guibg=NONE guifg=NONE
@@ -41,12 +41,12 @@ hi DiffChange ctermbg=23 ctermfg=159 guibg=#384851 guifg=#b3c3cc
 hi DiffDelete ctermbg=95 ctermfg=224 guibg=#53343b guifg=#ceb0b6
 hi DiffText cterm=NONE ctermbg=30 ctermfg=195 gui=NONE guibg=#5b7881 guifg=#c6c8d1
 hi Directory ctermfg=109 guifg=#89b8c2
-hi Error ctermbg=234 ctermfg=203 guibg=#161821 guifg=#e27878
-hi ErrorMsg ctermbg=234 ctermfg=203 guibg=#161821 guifg=#e27878
-hi WarningMsg ctermbg=234 ctermfg=203 guibg=#161821 guifg=#e27878
-hi EndOfBuffer ctermbg=234 ctermfg=236 guibg=#161821 guifg=#242940
-hi NonText ctermbg=234 ctermfg=236 guibg=#161821 guifg=#242940
-hi SpecialKey ctermbg=234 ctermfg=236 guibg=#161821 guifg=#242940
+hi Error ctermbg=234 ctermfg=203 guibg=NONE guifg=#e27878
+hi ErrorMsg ctermbg=234 ctermfg=203 guibg=NONE guifg=#e27878
+hi WarningMsg ctermbg=234 ctermfg=203 guibg=NONE guifg=#e27878
+hi EndOfBuffer ctermbg=234 ctermfg=236 guibg=NONE guifg=#242940
+hi NonText ctermbg=234 ctermfg=236 guibg=NONE guifg=#242940
+hi SpecialKey ctermbg=234 ctermfg=236 guibg=NONE guifg=#242940
 hi Folded ctermbg=235 ctermfg=245 guibg=NONE guifg=#686f9a
 hi FoldColumn ctermbg=235 ctermfg=239 guibg=NONE guifg=#444b71
 hi Function ctermfg=110 guifg=#84a0c6
@@ -83,7 +83,7 @@ hi String ctermfg=109 guifg=#89b8c2
 hi Structure ctermfg=110 guifg=#84a0c6
 hi TabLine cterm=NONE ctermbg=233 ctermfg=238 gui=NONE guibg=#0f1117 guifg=#3e445e
 hi TabLineFill cterm=reverse ctermbg=238 ctermfg=233 gui=reverse guibg=#3e445e guifg=#0f1117
-hi TabLineSel cterm=NONE ctermbg=234 ctermfg=252 gui=NONE guibg=#161821 guifg=#9a9ca5
+hi TabLineSel cterm=NONE ctermbg=234 ctermfg=252 gui=NONE guibg=NONE guifg=#9a9ca5
 hi TermCursorNC ctermbg=242 ctermfg=234 guibg=#6b7089 guifg=#161821
 hi Title ctermfg=216 gui=NONE guifg=#e2a478
 hi Todo ctermbg=234 ctermfg=150 guibg=#45493e guifg=#b4be82
